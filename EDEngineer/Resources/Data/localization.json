@@ -5353,7 +5353,7 @@
     },
     "Flow Control": {
       "es": "Control de Flujo",
-      "pt": null,
+      "pt": "Controle de Fluxo",
       "de": "Flusssteuerung",
       "fr": "Contrôle du Flux",
       "ru": "Контроль интенсивности",
@@ -5386,7 +5386,7 @@
     },
     "Scramble Spectrum": {
       "es": "Espectro de Interferencias",
-      "pt": null,
+      "pt": "Espectro de Interferências",
       "de": "Mischungsbandbreite",
       "fr": "Spectre de Brouillage",
       "ru": "Отключающая сетка",
@@ -5474,7 +5474,7 @@
     },
     "Force Shell": {
       "es": "Escudo de Fuerza",
-      "pt": null,
+      "pt": "Carapaça de Força",
       "de": "Impulsgranate",
       "fr": "Munitions Surpuissantes",
       "ru": "Усиленные снаряды",
@@ -5485,7 +5485,7 @@
     },
     "High Yield Shell": {
       "es": "Proyectil de Alto Rendimiento",
-      "pt": null,
+      "pt": "Carapaça de Alto Rendimento",
       "de": "Hocheffizienzgranate",
       "fr": "Obus à Fragmentations",
       "ru": "Снаряды большой мощности",
@@ -5496,7 +5496,7 @@
     },
     "Thermal Cascade": {
       "es": "Cascada Térmica",
-      "pt": null,
+      "pt": "Cascata Térmica",
       "de": "Thermalkaskade",
       "fr": "Réverbérations Thermiques",
       "ru": "Термический залп",
@@ -5518,7 +5518,7 @@
     },
     "Drag Munition": {
       "es": "Munición de Arrastre",
-      "pt": null,
+      "pt": "Munição de Arrasto",
       "de": "Ableitungsmunition",
       "fr": "Munitions à Inertie",
       "ru": "Замедляющие боеприпасы",
@@ -5540,7 +5540,7 @@
     },
     "Drag Munition (Seeker only)": {
       "es": "Munición de Arrastre (Autoguiado)",
-      "pt": null,
+      "pt": "Munição de Arrasto (Teleguiado)",
       "de": "Ableitungsmunition (nur Suchraketen)",
       "fr": "Munitions à Inertie (Auto-Guidés)",
       "ru": "Замедляющие боеприпасы (лоток с самонаведением)",
